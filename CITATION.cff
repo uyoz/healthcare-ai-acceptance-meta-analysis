@@ -9,7 +9,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-3153-5740"
     affiliation: "University of New England, Armidale, NSW, Australia"
 license: MIT
-repository-code: "https://github.com/REPLACE-WITH-USERNAME/healthcare-ai-acceptance-meta-analysis"
+repository-code: "https://github.com/uyoz/healthcare-ai-acceptance-meta-analysis"
 keywords:
   - meta-analysis
   - metafor
