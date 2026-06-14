@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Healthcare AI Acceptance — Beta/Path Meta-Analysis (R)"
+abstract: "R code for a multilevel random-effects meta-analysis of standardised beta/path coefficients examining UTAUT/TAM determinants of AI acceptance among healthcare professionals, with cluster-robust (CR2) inference and automated write-up generation."
+authors:
+  - family-names: Yousaf
+    given-names: Usman
+    orcid: "https://orcid.org/0000-0002-3153-5740"
+    affiliation: "University of New England, Armidale, NSW, Australia"
+license: MIT
+repository-code: "https://github.com/REPLACE-WITH-USERNAME/healthcare-ai-acceptance-meta-analysis"
+keywords:
+  - meta-analysis
+  - metafor
+  - reproducible research
+  - systematic review
+  - healthcare AI acceptance
+  - UTAUT
